@@ -1,3 +1,6 @@
 const a= 10
 
-export default a
+const user = "krishna"
+
+
+export default user

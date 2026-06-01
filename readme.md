@@ -7,4 +7,12 @@ framework(we get everything in built)
 - NextJS 
 - Angular
 
+steps to create a folder 
+
+-npm create vite
+- project-name 
+- select varaint ......
+
+
+
 

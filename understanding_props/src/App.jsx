@@ -1,17 +1,16 @@
 import React from 'react'
 import "./index.css"
-
+import Card from "./components/Card"
 
 const App = () =>{
   return (
     <div className='parent'>
-
-      <div className="card"> 
-        <h1> Hare Krishna </h1>
-      </div>
-
+      <Card/>
+      <Card/>
+      <Card/>
     </div>
   )
+ 
 }
 
 export default App
